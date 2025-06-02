@@ -3,22 +3,22 @@
     "name": "更新",
     "list": [
       {
-        "name": "合集线路5.3",
-        "url": "https://cloud.appleos.top/down.php/efe96cab997466705b2494385506cca1.zip",
+        "name": "合集线路6.2",
+        "url": "https://cloud.appleos.top/down.php/9239799f26138b9cc6d22764b60194b1.zip",
         "icon": "",
-        "version": "5.3"
+        "version": "6.2"
       },
       {
-        "name": "合集线路5.3 g",
+        "name": "合集线路6.2 g",
         "url": "https://gh-proxy.com/github.com/canxueguhong/app/raw/main/kstore.zip",
         "icon": "",
-        "version": "5.3"
+        "version": "6.2"
       },
       {
-        "name": "合集线路5.3 K",
+        "name": "合集线路6.2 K",
         "url": "https://d.kstore.dev/download/6330/local/kstore.zip",
         "icon": "",
-        "version": "5.3"
+        "version": "6.2"
       }
     ]
   }
