@@ -3,22 +3,22 @@
     "name": "更新",
     "list": [
       {
-        "name": "合集线路10.08",
-        "url": "http://wp.lanlt.cn/down.php/c11cb7f56b4a2e50540a58cb9592e384.zip",
+        "name": "合集线路10.13",
+        "url": "http://wp.lanlt.cn/down.php/3a8b9040b9a8924ee2a11371fe6962fc.zip",
         "icon": "",
-        "version": "10.08"
+        "version": "10.13"
       },
       {
-        "name": "合集线路10.08 g",
+        "name": "合集线路10.13 g",
         "url": "https://gh-proxy.com/github.com/canxueguhong/app/raw/main/kstore.zip",
         "icon": "",
-        "version": "10.08"
+        "version": "10.13"
       },
       {
-        "name": "合集线路10.08 K",
+        "name": "合集线路10.13 K",
         "url": "https://d.kstore.dev/download/6330/local/kstore.zip",
         "icon": "",
-        "version": "10.08"
+        "version": "10.13"
       }
     ]
   }
