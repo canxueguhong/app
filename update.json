@@ -4,27 +4,27 @@
     "list": [
       {
         "name": "合集 w",
-        "url": "http://cccimg.com/down.php/05c3bc0d68a14e430c836d5f729a5dd8.zip",
+        "url": "http://cccimg.com/down.php/61b56c39d8dbf12259ea254b1b981966.zip",
         "icon": "",
-        "version": "3.20"
+        "version": "4.12"
       },
       {
         "name": "合集 ge",
         "url": "https://gitee.com/canxue90/loacl/raw/master/kstore.zip",
         "icon": "",
-        "version": "3.20"
+        "version": "4.12"
       },
       {
         "name": "合集 g",
         "url": "https://gh-proxy.com/github.com/canxueguhong/app/raw/main/kstore.zip",
         "icon": "",
-        "version": "3.20"
+        "version": "4.12"
       },
       {
         "name": "合集 K",
         "url": "https://d.kstore.dev/download/6330/local/kstore.zip",
         "icon": "",
-        "version": "3.20"
+        "version": "4.12"
       }
     ]
   }
