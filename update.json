@@ -4,22 +4,22 @@
     "list": [
       {
         "name": "合集 w",
-        "url": "http://cccimg.com/down.php/61b56c39d8dbf12259ea254b1b981966.zip",
+        "url": "http://cccimg.com/down.php/1a91be6f995b8bb4087b000daec8e3a9.zip",
         "icon": "",
-        "version": "4.12"
+        "version": "4.13"
       },
       
       {
         "name": "合集 g",
         "url": "https://gh-proxy.com/github.com/canxueguhong/app/raw/main/kstore.zip",
         "icon": "",
-        "version": "4.12"
+        "version": "4.13"
       },
       {
         "name": "合集 K",
         "url": "https://d.kstore.dev/download/6330/local/kstore.zip",
         "icon": "",
-        "version": "4.12"
+        "version": "4.13"
       }
     ]
   }
